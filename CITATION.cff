@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite the accompanying paper."
+title: "Lean 4 formalization: resilience of a stochastic generalized Lotka–Volterra model for microbiome studies"
+authors:
+  - family-names: Ridenhour
+    given-names: B. J.
+    affiliation: University of Idaho
+license: Apache-2.0
+repository-code: "https://github.com/magbenji/sglv-resilience-lean"
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - stochastic Lotka–Volterra
+  - resilience
+  - microbiome
+preferred-citation:
+  type: article
+  title: "Resilience of a stochastic generalized Lotka–Volterra model for microbiome studies"
+  authors:
+    - family-names: Phan
+      given-names: Tuan A.
+    - family-names: Ridenhour
+      given-names: Benjamin J.
+      affiliation: University of Idaho
+    - family-names: Remien
+      given-names: Christopher H.
+  journal: "Mathematical Biosciences and Engineering"
+  volume: 22
+  issue: 6
+  start: 1517
+  end: 1550
+  year: 2025
+  doi: 10.3934/mbe.2025056
+  url: "https://doi.org/10.3934/mbe.2025056"

@@ -1,6 +1,7 @@
 # Lean 4 formalization: resilience of a stochastic generalized Lotka–Volterra model
 
 [![DOI](https://img.shields.io/badge/DOI-10.3934%2Fmbe.2025056-blue.svg)](https://doi.org/10.3934/mbe.2025056)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24293110.svg)](https://doi.org/10.5281/zenodo.24293110)
 [![Lean build](https://github.com/magbenji/sglv-resilience-lean/actions/workflows/lean_action_ci.yml/badge.svg)](https://github.com/magbenji/sglv-resilience-lean/actions/workflows/lean_action_ci.yml)
 
 Machine-checked proofs (Lean 4 + Mathlib) of the mathematics in the paper
@@ -183,6 +184,8 @@ If you use this code, please cite the paper (see `CITATION.cff`):
 > T. A. Phan, B. J. Ridenhour and C. H. Remien, Resilience of a stochastic generalized
 > Lotka–Volterra model for microbiome studies, Mathematical Biosciences and Engineering 22(6)
 > (2025), 1517–1550. https://doi.org/10.3934/mbe.2025056
+
+To cite the code itself, use the Zenodo archive: https://doi.org/10.5281/zenodo.24293110.
 
 The code is released under the
 Apache License 2.0 (see `LICENSE`), the same license as Mathlib.

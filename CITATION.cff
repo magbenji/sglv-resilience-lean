@@ -6,6 +6,7 @@ authors:
     given-names: B. J.
     affiliation: University of Idaho
 license: Apache-2.0
+doi: 10.5281/zenodo.24293110
 repository-code: "https://github.com/magbenji/sglv-resilience-lean"
 keywords:
   - Lean 4
